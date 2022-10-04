@@ -1,4 +1,4 @@
-package classobjects.school.dsa;
+package classcollection.school.dsa;
 
 public class Subject {
     private String title;

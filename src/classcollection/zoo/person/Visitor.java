@@ -1,4 +1,4 @@
-package classobjects.zoo.person;
+package classcollection.zoo.person;
 
 public class Visitor {
     private String name;

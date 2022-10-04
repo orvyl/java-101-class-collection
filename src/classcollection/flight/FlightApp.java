@@ -1,4 +1,4 @@
-package classobjects.flight;
+package classcollection.flight;
 
 public class FlightApp {
     public static void main(String[] args) {

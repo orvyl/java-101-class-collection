@@ -1,4 +1,4 @@
-package classobjects.zoo.animal;
+package classcollection.zoo.animal;
 
 import java.util.ArrayList;
 import java.util.List;

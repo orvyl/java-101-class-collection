@@ -1,17 +1,15 @@
-package classobjects.zoo;
+package classcollection.zoo;
 
-import classobjects.zoo.animal.Animal;
-import classobjects.zoo.animal.AnimalType;
-import classobjects.zoo.person.Employee;
-import classobjects.zoo.person.Manager;
-import classobjects.zoo.person.Visitor;
+import classcollection.zoo.animal.Animal;
+import classcollection.zoo.animal.AnimalType;
+import classcollection.zoo.person.Employee;
+import classcollection.zoo.person.Manager;
+import classcollection.zoo.person.Visitor;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 public class ZooApp {
     public static void main(String[] args) {

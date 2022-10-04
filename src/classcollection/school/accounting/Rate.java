@@ -1,6 +1,6 @@
-package classobjects.school.accounting;
+package classcollection.school.accounting;
 
-import classobjects.school.Course;
+import classcollection.school.Course;
 
 public class Rate {
     private Course course;

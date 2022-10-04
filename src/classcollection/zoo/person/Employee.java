@@ -1,7 +1,7 @@
-package classobjects.zoo.person;
+package classcollection.zoo.person;
 
 
-import classobjects.zoo.animal.Animal;
+import classcollection.zoo.animal.Animal;
 
 public class Employee {
 

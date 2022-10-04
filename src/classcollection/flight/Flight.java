@@ -1,4 +1,4 @@
-package classobjects.flight;
+package classcollection.flight;
 
 public class Flight { // class declaration
 

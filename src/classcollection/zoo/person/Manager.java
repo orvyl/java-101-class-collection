@@ -1,4 +1,4 @@
-package classobjects.zoo.person;
+package classcollection.zoo.person;
 
 public class Manager {
     private String name;

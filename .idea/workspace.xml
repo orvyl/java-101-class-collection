@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba47cf54-3904-4bb5-82f5-2c7d834d07dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-101-class-collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/flight/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/flight/FlightApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/school/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/school/SchoolApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/school/accounting/Rate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/school/dsa/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/school/dsa/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/zoo/ZooApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/zoo/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/zoo/animal/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/zoo/person/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/zoo/person/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classobjects/zoo/person/Visitor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FeLZzpFrDxxkgitk1i1gKKrHpL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java_Projects/java-101-class-collection/src/classobjects/zoo",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_Projects\java-101-class-collection\src\classobjects\zoo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ZooApp">
+    <configuration name="FlightApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classobjects.flight.FlightApp" />
+      <module name="java-101-class-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classobjects.flight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classobjects.school.SchoolApp" />
+      <module name="java-101-class-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classobjects.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classobjects.zoo.ZooApp" />
+      <module name="java-101-class-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classobjects.zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZooApp" />
+        <item itemvalue="Application.SchoolApp" />
+        <item itemvalue="Application.FlightApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba47cf54-3904-4bb5-82f5-2c7d834d07dc" name="Changes" comment="" />
+      <created>1664847664411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664847664411</updated>
+      <workItem from="1664847665737" duration="4577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
